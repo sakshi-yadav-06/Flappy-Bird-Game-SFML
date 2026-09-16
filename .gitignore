@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
